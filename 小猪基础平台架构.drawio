@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T08:53:45.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="sQ8wE9nyM2esP586FYE7" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T12:19:17.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XNsvdOHAD4IXmtCxYncU" version="14.2.9" type="github">
   <diagram id="CqDLDWrJa-jndo9C78Bm" name="Page-1">
-    <mxGraphModel dx="1261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -952,10 +952,10 @@
         <mxCell id="Pd78XcrjypwUH82rMYjO-257" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-256">
           <mxGeometry width="161.15606936416185" height="327.9527559055118" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-258" value="日历时间基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-256">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-258" value="日历时间基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-256">
           <mxGeometry x="23.699421965317917" y="154.60629921259843" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-259" value="四级地址基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-256">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-259" value="四级地址基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-256">
           <mxGeometry x="23.699421965317917" y="234.251968503937" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-260" value="预订/退订 规则基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-256">
@@ -1007,13 +1007,13 @@
           <mxGeometry width="322.3121387283237" height="327.9527559055118" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-276" value="保洁" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-274">
-          <mxGeometry x="23.699421965317917" y="154.60629921259843" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="23.7" y="150" width="116.3" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-277" value="商家惩戒/黑名单" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-274">
-          <mxGeometry x="23.699421965317917" y="234.251968503937" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="23.7" y="250" width="116.3" height="40.47" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-278" value="房源通广告" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-274">
-          <mxGeometry x="23.699421965317917" y="74.96062992125984" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="23.7" y="74.96" width="116.3" height="45.04" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-279" value="商家服务平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-274">
           <mxGeometry x="42.65895953757225" y="18.74015748031496" width="75.83815028901734" height="37.48031496062992" as="geometry" />
@@ -1132,7 +1132,7 @@
         <mxCell id="Pd78XcrjypwUH82rMYjO-317" value="库存状态（房态）" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-315">
           <mxGeometry x="23.699421965317917" y="154.60629921259843" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-318" value="库存属性？？" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-315">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-318" value="库存属性？？" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-315">
           <mxGeometry x="23.699421965317917" y="234.251968503937" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-319" value="房源库存" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-315">
@@ -1165,7 +1165,7 @@
         <mxCell id="Pd78XcrjypwUH82rMYjO-329" value="酒店/民宿 &lt;br&gt;类目系统？？" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-327">
           <mxGeometry x="23.699421965317917" y="154.60629921259843" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-330" value="价格系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-327">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-330" value="价格系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-327">
           <mxGeometry x="23.699421965317917" y="234.251968503937" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-331" value="商品主数据" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-327">
@@ -1217,13 +1217,13 @@
           <mxGeometry x="1365.086705202312" y="937.007874015748" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-348" value="摄影服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-242">
-          <mxGeometry x="320.6356069364162" y="154.60629921259843" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="320.64" y="150" width="109.36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-349" value="经营指导" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-242">
-          <mxGeometry x="320.6356069364162" y="234.251968503937" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="320.64" y="250" width="109.36" height="40.47" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-350" value="门锁智能服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-242">
-          <mxGeometry x="320.6356069364162" y="74.96062992125984" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="320.64" y="74.96" width="109.36" height="45.04" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-351" value="到店平台网关" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Pd78XcrjypwUH82rMYjO-242">
           <mxGeometry x="1184.971098265896" y="487.244094488189" width="56.878612716763" height="215.51181102362204" as="geometry" />
@@ -1256,7 +1256,7 @@
           <mxGeometry x="4380.004393063584" y="2109.9997637795277" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-584" value="房东商城" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="3240.515606936416" y="1470.001968503937" width="113.757225433526" height="56.22047244094488" as="geometry" />
+          <mxGeometry x="3090" y="1650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-585" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2859.9968208092487" y="1460" width="161.15606936416185" height="327.9527559055118" as="geometry" />
@@ -1284,6 +1284,12 @@
         </mxCell>
         <mxCell id="Pd78XcrjypwUH82rMYjO-595" value="这个黄色，代表当前缺失的基础功能" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;dashed=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="1608" width="75" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd78XcrjypwUH82rMYjO-596" value="计费服务&lt;br&gt;佣金比/活动奖励等" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1651.53" width="109.36" height="40.47" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd78XcrjypwUH82rMYjO-708" value="&lt;a href=&quot;https://www.oracle.com/cn/industries/hospitality/hotel-property-management/solutions/&quot; class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; list-style: none ; color: rgb(0 , 104 , 140) ; font-family: &amp;#34;oraclesansvf&amp;#34; , &amp;#34;oraclesansvfcygr&amp;#34; , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;酒店物业管理系统&lt;/a&gt;&lt;span style=&quot;color: rgb(22 , 21 , 19) ; font-family: &amp;#34;oraclesansvf&amp;#34; , &amp;#34;oraclesansvfcygr&amp;#34; , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;(PMS)&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="4380.004393063584" y="1880.004094488189" width="113.757225433526" height="56.22047244094488" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
