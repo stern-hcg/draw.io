@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T07:14:23.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="cp0rI3ttsAYXExvJxn96" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T07:17:31.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dhArs-6DfG4o9Zehg0No" version="14.6.2" type="github">
   <diagram id="CqDLDWrJa-jndo9C78Bm" name="Page-1">
-    <mxGraphModel dx="3784" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1471,7 +1471,7 @@
         <mxCell id="IYbpAdRbGPaIY9dx_rlX-121" value="业务架构：&lt;br&gt;技术\功能" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="IYbpAdRbGPaIY9dx_rlX-120">
           <mxGeometry width="86" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="IYbpAdRbGPaIY9dx_rlX-122" value="业务标识" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="IYbpAdRbGPaIY9dx_rlX-120">
+        <mxCell id="IYbpAdRbGPaIY9dx_rlX-122" value="业务标识&lt;br&gt;（用户分类+商品分类+商户分类 =&amp;nbsp; 业务标识）-- 个人理解" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="IYbpAdRbGPaIY9dx_rlX-120">
           <mxGeometry x="86" width="204" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IYbpAdRbGPaIY9dx_rlX-123" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;业务流程&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="IYbpAdRbGPaIY9dx_rlX-120">
