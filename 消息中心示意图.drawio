@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T08:51:03.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="lhCCFkYqLgGO94eQwyi2" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T11:13:11.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uosE0XR63XNFtz3yTcV6" version="14.7.2" type="github">
   <diagram id="R-Ft6WelNc74L0pjaqTJ" name="Page-1">
     <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="vnwakXqG2bKuVkCYGowV-9" value="生产 - 交换机" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_edge_transport_server_role;" parent="1" vertex="1">
           <mxGeometry x="660" y="610" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vnwakXqG2bKuVkCYGowV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="vnwakXqG2bKuVkCYGowV-13" target="vnwakXqG2bKuVkCYGowV-9" edge="1">
+        <mxCell id="CpxbRHX5EgMYape-dLLd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vnwakXqG2bKuVkCYGowV-13" target="CpxbRHX5EgMYape-dLLd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vnwakXqG2bKuVkCYGowV-13" value="生产 - 延迟队列" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" parent="1" vertex="1">
@@ -98,8 +98,14 @@
         <mxCell id="vnwakXqG2bKuVkCYGowV-67" value="重试消息" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="1685" y="813.5" width="30" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="IaPszxLN4dNGTJP6rbzT-1" value="未订阅时&lt;br&gt;1. 忽略消息2. 设置alternative exchange 3. messge 属性 mandatory 时候返回给生产者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IaPszxLN4dNGTJP6rbzT-1" value="&lt;div&gt;&lt;span&gt;未订阅时&lt;/span&gt;&lt;/div&gt;1. 忽略消息（discard message）&lt;br&gt;&lt;div&gt;&lt;span&gt;2. 设置 alternative exchange 情况下，转发给&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&amp;nbsp;alternative exchange&lt;div&gt;&lt;span&gt;3. messge&amp;nbsp; 属性含有 mandatory 时候回退给生产者&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="440" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CpxbRHX5EgMYape-dLLd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpxbRHX5EgMYape-dLLd-1" target="vnwakXqG2bKuVkCYGowV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpxbRHX5EgMYape-dLLd-1" value="延迟消费消息" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="685" y="826.5" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
