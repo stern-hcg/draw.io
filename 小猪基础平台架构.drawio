@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T05:44:05.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="T3x2T-7ipo4kqeMj6Asc" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T06:06:43.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="IuwRxXuNFmmAUhZMKmoK" version="14.8.5" type="github">
   <diagram id="CqDLDWrJa-jndo9C78Bm" name="Page-1">
-    <mxGraphModel dx="1351" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3784" dy="2364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vaBxBm3sKu__WOeaKwD4-86" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;align=left;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="2307" width="2210" height="873" as="geometry" />
-        </mxCell>
-        <mxCell id="vaBxBm3sKu__WOeaKwD4-82" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;align=left;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="50" width="2160" height="980" as="geometry" />
         </mxCell>
         <mxCell id="YhDQfuXq99wy4Zmek8_1-28" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;架构&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;定义做什么事情，事情应该达到的结果&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;分解事，分解到人+部分。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;事儿之间的协作，信息交互，一致性保证。这个需要工具支持。工具就是软件应用。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;软件应用要解决一些数据规模问题，信息通信可靠性问题。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="640" width="585" height="180" as="geometry" />
@@ -352,7 +349,7 @@
         <mxCell id="vaBxBm3sKu__WOeaKwD4-45" value="&lt;span&gt;抽象层级：Z&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;伴随着时间，技术成熟度发展，使用门槛越来越低，技术栈越来越深，越来越开箱即用）：&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;基础&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;|&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;抽象化&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;|&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp;服务化&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=22;" parent="vaBxBm3sKu__WOeaKwD4-46" vertex="1">
           <mxGeometry x="-50" y="30" width="230" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="vaBxBm3sKu__WOeaKwD4-56" value="技术维度： Y&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;针对不同的功能，要解决的具体技术问题不同，所使用的技术栈和技术方案也不同&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=22;" parent="vaBxBm3sKu__WOeaKwD4-46" vertex="1">
+        <mxCell id="vaBxBm3sKu__WOeaKwD4-56" value="技术维度： Y&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;针对不同的功能，要解决的具体技术问题不同，所使用的技术栈和技术方案也不同。解决技术问题是为了实现具体功能服务的，所以需要区分好什么是功能，什么是具体技术方案。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=22;" parent="vaBxBm3sKu__WOeaKwD4-46" vertex="1">
           <mxGeometry x="293.5" y="100" width="270" height="127" as="geometry" />
         </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-75" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
@@ -394,14 +391,14 @@
         <mxCell id="YhDQfuXq99wy4Zmek8_1-23" value="基础设施架构（运维）IAAS&lt;br&gt;类比CPU，内存，磁盘。消除物理依赖，不必自己组装机器，机房管理等等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="180" y="714.2857142857142" width="160" height="85.71428571428571" as="geometry" />
         </mxCell>
-        <mxCell id="YhDQfuXq99wy4Zmek8_1-24" value="云主机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="YhDQfuXq99wy4Zmek8_1-24" value="运算&amp;amp;指令控制 - ECS/POD/Mainframe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="380" y="720" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="YhDQfuXq99wy4Zmek8_1-25" value="database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="YhDQfuXq99wy4Zmek8_1-25" value="存储- database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="720" y="720" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="YhDQfuXq99wy4Zmek8_1-26" value="ceph" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
-          <mxGeometry x="550" y="720" width="120" height="68.57142857142857" as="geometry" />
+        <mxCell id="YhDQfuXq99wy4Zmek8_1-26" value="文件存储 -&amp;nbsp;&lt;br&gt;Disk/Ceph/RAID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+          <mxGeometry x="551" y="720" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="YhDQfuXq99wy4Zmek8_1-27" value="风控服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="380" y="617.1428571428571" width="120" height="68.57142857142857" as="geometry" />
@@ -502,13 +499,13 @@
         <mxCell id="Pd78XcrjypwUH82rMYjO-235" value="&lt;span&gt;数据架构&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="205" y="388.57142857142856" width="110" height="45.71428571428571" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-236" value="redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-236" value="存储-redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="860" y="720" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-237" value="elastic-search" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-237" value="存储 - elastic-search" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="1020" y="720" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-238" value="net/vpc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-238" value="服务互通 - net/vpc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="1200" y="720" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-1" value="微信分账服务&lt;br&gt;（结算）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
@@ -535,10 +532,10 @@
         <mxCell id="vaBxBm3sKu__WOeaKwD4-15" value="链路追踪服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="990" y="525.7142857142857" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="vaBxBm3sKu__WOeaKwD4-16" value="域名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="vaBxBm3sKu__WOeaKwD4-16" value="服务管理- 域名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="1350" y="722.8571428571428" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="vaBxBm3sKu__WOeaKwD4-18" value="k8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+        <mxCell id="vaBxBm3sKu__WOeaKwD4-18" value="基础设施管理 - k8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
           <mxGeometry x="1500" y="722.8571428571428" width="120" height="68.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-19" value="监控报警服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
@@ -586,13 +583,16 @@
         <mxCell id="vaBxBm3sKu__WOeaKwD4-31" value="应用架构分为三层：" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vaBxBm3sKu__WOeaKwD4-32" vertex="1">
           <mxGeometry width="240" height="22.857142857142854" as="geometry" />
         </mxCell>
+        <mxCell id="vaBxBm3sKu__WOeaKwD4-85" value="这个图是从业务角度，&lt;br&gt;看待不同架构层级提供的能力模块。 &lt;br&gt;参考左侧的网络结构图，这里面剖析的是YZ平面的，即功能，抽象两个维度的展开平面。 &lt;br&gt;在最底层，功能&amp;amp;技术我们基本上很多时候就使用同一个词汇，但是我们其实还是要有所区分。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="vaBxBm3sKu__WOeaKwD4-79" vertex="1">
+          <mxGeometry x="381" y="-40.00000000000001" width="680" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-81" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="710" y="50" width="960" height="630" as="geometry" />
         </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-78" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;align=left;fillColor=#eeeeee;strokeColor=#36393d;" parent="vaBxBm3sKu__WOeaKwD4-81" vertex="1">
           <mxGeometry width="960.0000000000001" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="Pd78XcrjypwUH82rMYjO-73" value="&lt;font style=&quot;font-size: 16px&quot;&gt;网络四层结构与 企业IT架构之间的关系&lt;br&gt;四层网络结构，每一层向上提供抽象层，上层使用下层能力封装，实现上层功能&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;dashed=1;dashPattern=1 1;" parent="vaBxBm3sKu__WOeaKwD4-81" vertex="1">
+        <mxCell id="Pd78XcrjypwUH82rMYjO-73" value="&lt;font style=&quot;font-size: 16px&quot;&gt;网络四层结构与 企业IT架构之间的关系&lt;br&gt;四层网络结构，每一层向上提供抽象层，上层使用下层能力封装，实现上层功能&lt;br&gt;&lt;br&gt;这里面是刨面，是 XZ 平面，最上层的业务，指的是这些技术方案可以实现的业务应用。&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;dashed=1;dashPattern=1 1;" parent="vaBxBm3sKu__WOeaKwD4-81" vertex="1">
           <mxGeometry x="57.313432835820905" y="506.0655737704918" width="845.3731343283583" height="92.95081967213115" as="geometry" />
         </mxCell>
         <mxCell id="YhDQfuXq99wy4Zmek8_1-1" value="业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="vaBxBm3sKu__WOeaKwD4-81" vertex="1">
@@ -681,9 +681,6 @@
         </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-73" value="SMTP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="vaBxBm3sKu__WOeaKwD4-81" vertex="1">
           <mxGeometry x="727.7417388510523" y="154.91803278688525" width="171.16493597696874" height="38.72950819672131" as="geometry" />
-        </mxCell>
-        <mxCell id="vaBxBm3sKu__WOeaKwD4-85" value="这个图是从业务角度，&lt;br&gt;看待不同架构层级提供的能力模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2803.7" y="70" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vaBxBm3sKu__WOeaKwD4-87" value="这个是技术架构角度，运维&amp;amp;基础层具体的技术方案以及应用组件。比如，MQ 可以由多种选型，分布式任务调度也是多种选型，同样类似的由配置中心，还有日志服务等等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="125" y="2307" width="1265" height="80" as="geometry" />
